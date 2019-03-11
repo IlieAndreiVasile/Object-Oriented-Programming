@@ -1,0 +1,71 @@
+﻿  UndoController.c
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\undocontroller.c(8): warning C4047: '=': 'CountryRepo **' differs in levels of indirection from 'CountryRepo *'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\undocontroller.c(58): warning C4029: declared formal parameter list different from definition
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\undocontroller.c(74): warning C4047: 'return': 'int' differs in levels of indirection from 'CountryRepo *'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\undocontroller.c(76): warning C4047: 'return': 'int' differs in levels of indirection from 'CountryRepo *'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\undocontroller.c(80): warning C4029: declared formal parameter list different from definition
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\undocontroller.c(95): warning C4047: 'return': 'int' differs in levels of indirection from 'CountryRepo *'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\undocontroller.c(97): warning C4047: 'return': 'int' differs in levels of indirection from 'CountryRepo *'
+  UI.c
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(7): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(16): warning C4013: 'free' undefined; assuming extern returning int
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(69): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(71): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(86): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(88): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(90): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(99): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(110): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(112): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(114): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(125): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(127): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(129): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(156): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(181): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(184): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(209): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(256): warning C4029: declared formal parameter list different from definition
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(276): warning C4013: 'newOperation' undefined; assuming extern returning int
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(277): warning C4013: 'addList' undefined; assuming extern returning int
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(354): warning C4020: 'undo': too many actual parameters
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(354): warning C4047: '=': 'CountryRepo *' differs in levels of indirection from 'int'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(365): warning C4020: 'redo': too many actual parameters
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\ui.c(365): warning C4047: '=': 'CountryRepo *' differs in levels of indirection from 'int'
+  Repository.c
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\repository.c(8): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\repository.c(9): warning C4047: '=': 'Country **' differs in levels of indirection from 'Country *'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\repository.c(20): warning C4013: 'free' undefined; assuming extern returning int
+  main.c
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\main.c(30): warning C4013: 'newOperation' undefined; assuming extern returning int
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\main.c(31): warning C4013: 'addList' undefined; assuming extern returning int
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\main.c(35): warning C4020: 'startUI': too many actual parameters
+  Country.c
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\country.c(10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\country.c(12): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\country.c(45): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Controller.c
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\controller.c(6): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 4\lab4\lab4\controller.c(16): warning C4013: 'free' undefined; assuming extern returning int
+  Generating Code...
+  Lab4.vcxproj -> C:\Users\Andrei\Faculty\First year\Semester II\Object oriented prgramming\C\Labs\Lab 4\Lab4\Debug\Lab4.exe
+  Lab4.vcxproj -> C:\Users\Andrei\Faculty\First year\Semester II\Object oriented prgramming\C\Labs\Lab 4\Lab4\Debug\Lab4.pdb (Partial PDB)
