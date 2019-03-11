@@ -1,0 +1,37 @@
+﻿  UI.c
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 3\lab 3-4\ui.c(56): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 3\lab 3-4\ui.c(58): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 3\lab 3-4\ui.c(73): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 3\lab 3-4\ui.c(75): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 3\lab 3-4\ui.c(77): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 3\lab 3-4\ui.c(88): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 3\lab 3-4\ui.c(84): warning C4101: 'continent': unreferenced local variable
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 3\lab 3-4\ui.c(85): warning C4101: 'population': unreferenced local variable
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 3\lab 3-4\ui.c(99): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 3\lab 3-4\ui.c(101): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 3\lab 3-4\ui.c(103): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 3\lab 3-4\ui.c(131): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Repository.c
+  main.c
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 3\lab 3-4\main.c(7): warning C4013: 'testCountryRepo' undefined; assuming extern returning int
+  Country.c
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 3\lab 3-4\country.c(8): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 3\lab 3-4\country.c(9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab 3\lab 3-4\country.c(32): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Controller.c
+  Generating Code...
+  Lab 3-4.vcxproj -> C:\Users\Andrei\Faculty\First year\Semester II\Object oriented prgramming\C\Labs\Lab 3\Debug\Lab 3-4.exe
+  Lab 3-4.vcxproj -> C:\Users\Andrei\Faculty\First year\Semester II\Object oriented prgramming\C\Labs\Lab 3\Debug\Lab 3-4.pdb (Partial PDB)
