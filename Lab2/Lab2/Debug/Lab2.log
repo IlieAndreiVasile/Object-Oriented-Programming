@@ -1,0 +1,7 @@
+﻿  Source.c
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab2\lab2\source.c(115): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab2\lab2\source.c(115): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab2\lab2\source.c(115): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab2\lab2\source.c(115): note: this argument is used as a buffer size
+  Lab2.vcxproj -> C:\Users\Andrei\Faculty\First year\Semester II\Object oriented prgramming\C\Labs\Lab2\Debug\Lab2.exe
+  Lab2.vcxproj -> C:\Users\Andrei\Faculty\First year\Semester II\Object oriented prgramming\C\Labs\Lab2\Debug\Lab2.pdb (Partial PDB)
