@@ -1,0 +1,15 @@
+﻿  UI.cpp
+  TrenchCoatValidator.cpp
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab8-9\lab8-9\lab8-9\trenchcoatvalidator.cpp(28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab8-9\lab8-9\lab8-9\trenchcoatvalidator.cpp(29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  TrenchCoat.cpp
+  ShopBasket.cpp
+  Repository.cpp
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab8-9\lab8-9\lab8-9\repository.cpp(25): warning C4101: 'e': unreferenced local variable
+c:\users\andrei\faculty\first year\semester ii\object oriented prgramming\c\labs\lab8-9\lab8-9\lab8-9\repository.cpp(61): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Exceptions.cpp
+  Controller.cpp
+  Generating Code...
+  Lab8-9.vcxproj -> C:\Users\Andrei\Faculty\First year\Semester II\Object oriented prgramming\C\Labs\Lab8-9\Lab8-9\x64\Debug\Lab8-9.exe
+  Lab8-9.vcxproj -> C:\Users\Andrei\Faculty\First year\Semester II\Object oriented prgramming\C\Labs\Lab8-9\Lab8-9\x64\Debug\Lab8-9.pdb (Full PDB)
